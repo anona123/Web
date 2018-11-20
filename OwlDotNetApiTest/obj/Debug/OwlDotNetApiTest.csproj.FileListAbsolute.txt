@@ -1,0 +1,14 @@
+C:\Users\leopard\Desktop\Ontology\OWLC# API\examples\OwlDotNetApiTest\obj\Debug\OwlDotNetApiTest.exe
+C:\Users\leopard\Desktop\Ontology\OWLC# API\examples\OwlDotNetApiTest\obj\Debug\OwlDotNetApiTest.pdb
+C:\Users\leopard\Desktop\Ontology\OWLC# API\examples\OwlDotNetApiTest\bin\Debug\OwlDotNetApiTest.exe
+C:\Users\leopard\Desktop\Ontology\OWLC# API\examples\OwlDotNetApiTest\bin\Debug\OwlDotNetApiTest.pdb
+C:\Users\leopard\Desktop\Ontology\OWLC# API\examples\OwlDotNetApiTest\bin\Debug\OwlDotNetApi.pdb
+C:\Users\leopard\Desktop\Ontology\OWLC# API\examples\OwlDotNetApiTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Studying\Knowledge Base System\Ontology\OWLC# API\examples\OwlDotNetApiTest\obj\Debug\OwlDotNetApiTest.exe
+E:\Studying\Knowledge Base System\Ontology\OWLC# API\examples\OwlDotNetApiTest\obj\Debug\OwlDotNetApiTest.pdb
+C:\Users\Noura\Desktop\3d year project\Protege_Ontology\Ontology\OWLC# API\examples\OwlDotNetApiTest\obj\Debug\OwlDotNetApiTest.exe
+C:\Users\Noura\Desktop\3d year project\Protege_Ontology\Ontology\OWLC# API\examples\OwlDotNetApiTest\obj\Debug\OwlDotNetApiTest.pdb
+C:\Users\Noura\Desktop\3d year project\Protege_Ontology\Ontology\OWLC# API\examples\OwlDotNetApiTest\bin\Debug\OwlDotNetApiTest.exe
+C:\Users\Noura\Desktop\3d year project\Protege_Ontology\Ontology\OWLC# API\examples\OwlDotNetApiTest\bin\Debug\OwlDotNetApiTest.pdb
+C:\Users\Noura\Desktop\3d year project\Protege_Ontology\Ontology\OWLC# API\examples\OwlDotNetApiTest\bin\Debug\OwlDotNetApi.pdb
+C:\Users\Noura\Desktop\3d year project\Protege_Ontology\Ontology\OWLC# API\examples\OwlDotNetApiTest\obj\Debug\ResolveAssemblyReference.cache
